@@ -18,5 +18,6 @@
 
 
 ## links
-========
-- http://www.arabicgit.com/contributing-open-source-projects-github/
+[*Contributing-open-source-projects-github*](http://www.arabicgit.com/contributing-open-source-projects-github/) 
+
+[*DZ Geek Hangout*](https://www.facebook.com/DZ-Geek-Hangout-823141617804622/) is a Facebook group which offers online workshops via  [*Hangout*](https://hangouts.google.com).
